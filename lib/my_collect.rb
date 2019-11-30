@@ -1,4 +1,5 @@
 nicknames = ["Kenny G", "Astronori", "K-Tut"]
+def my_collect(array)
 my_name(nicknames) do |name|
   name.upcase
 end
