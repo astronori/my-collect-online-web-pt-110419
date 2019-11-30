@@ -8,4 +8,4 @@ while i < array.length
 end
 name_collection
 end
-my_collect(nicknames) {|i|} i.split(" ").first}
+my_collect(nicknames) {|i| i.split(" ").first}
