@@ -1,4 +1,4 @@
-nicknames = ["Kenny G", "Astronori", "K-Tut"]
-my_name(nicknames) do |name|
-  name.upcase
+collection = ['ruby', 'javascript', 'python', 'objective-c']
+my_collect(collection) do |lang|
+  lang.upcase
 end
